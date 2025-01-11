@@ -22,4 +22,15 @@ Here is my updated [spreadsheet](https://docs.google.com/spreadsheets/d/1iU5AqJh
 
 ### 2. Exploratory Data Analysis (EDA)
 
+**Basic Statistics:** I created a small pivot table of several basic statistics. Note that **Subscribers** column is the only numerical column out of all columns.
 
+- SUM of **Subscribers:** 4596.8
+- AVERAGE of **Subscribers:** 91.936
+- MAX of **Subscribers:** 340
+- MIN of **Subscribers:** 57.6
+- MEDIAN of **Subscribers:** 72.5
+- STDEV of **Subscribers:** 53.59344599
+
+Lastly, after those cleanings and modifications to the spreadsheet, I saved it as a .csv file to take it further for data analysis step. Please check out [analysis.md](https://github.com/erickarambulo/youtube/blob/main/analysis.md) to view my conclusions of analysis.
+
+If you rather to view data visualizations + code readability without analysis, please refer to [youtube.ipynb](https://github.com/erickarambulo/youtube/blob/main/youtube.ipynb).
