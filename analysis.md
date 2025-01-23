@@ -28,7 +28,7 @@ The music category's presence in the top three is unsurprising, as many viewers 
 
 Finally, education occupies the third position, reflecting the desire of some viewers to learn from YouTubers on diverse subjects and stay informed.
 
-- Demographics of Top 50 YouTubers' Nationality
+- Sum of Subscribers for demographics of YouTubers' Nationality
 
 
 
@@ -37,5 +37,3 @@ Finally, education occupies the third position, reflecting the desire of some vi
 - Brand vs. Individual Channels:
 
 - Category Saturation:
-
-- 
