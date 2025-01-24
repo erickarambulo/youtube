@@ -6,7 +6,7 @@ This section outlines the analysis process, where I conclude my analysis based o
 
 ### Data Visualizations and Analysis:
 
-- Popular YouTube Channels
+- Ranking of Top 50 YouTube Channels
 
 ![download](https://github.com/user-attachments/assets/01431b1d-1f6e-4821-8652-b528b7a98930)
 
@@ -16,7 +16,7 @@ This is a general bar chart of popular YouTube channels by subscriber counts. Mr
 
 ![download](https://github.com/user-attachments/assets/7dad4c4a-d0f8-475c-a02d-c5a632fac330)
 
-The Top 50 list appears to be ranked by subscriber count per country, with India at the top and the United States in second place. As mentioned earlier, India has a very large population.
+The Top 50 list appears to be ranked by subscriber count per country, with India at the top and the United States in second place. As mentioned earlier, India has a very large population of people .
 
 ![download](https://github.com/user-attachments/assets/56bae3be-abd5-4e8f-90c7-401c83aebdbb)
 
@@ -28,7 +28,7 @@ The music category's presence in the top three is unsurprising, as many viewers 
 
 Finally, education occupies the third position, reflecting the desire of some viewers to learn from YouTubers on diverse subjects and stay informed.
 
-- Sum of Subscribers for demographics of YouTubers' Nationality
+- Sum of Subscribers for Demographics of YouTubers' Nationality
 
 
 
