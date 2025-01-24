@@ -30,10 +30,18 @@ Finally, education occupies the third position, reflecting the desire of some vi
 
 - Sum of Subscribers for Demographics of YouTubers' Nationality
 
+![download](https://github.com/user-attachments/assets/a62a3fa7-8c48-4dae-9438-d6c943fb1398)
 
+(To be continue here...)
 
 - Content Language vs. Popularity:
 
+(To be continue here...)
+
 - Brand vs. Individual Channels:
 
+(To be continue here...)
+
 - Category Saturation:
+
+(To be continue here...)
