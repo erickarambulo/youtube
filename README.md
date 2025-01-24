@@ -10,14 +10,19 @@ Project Goals:
 
 Google Sheets:
 - Perform a little bit of data cleaning on Google Sheets instead of SQL since it's only 50 rows ✔
+- Create a new column called 'Nationality' to help clarify the difference between Country and Nationality ✔
+- Using my skills in effective prompting and few-shot prompting, I want to use Gemini AI to determine the nationalities of YouTubers based on the names of their YouTube channels. This will help me save time by automating the creation of a new column ✔
 - Save as a .csv file and then use Python with Jupyter Notebook as an IDE for further analysis ✔
 
 Python in Jupyter Notebook:
-- Subscriber Demographics by Country and Category: Explore which countries have the most popular channels and how those rankings differ by category (e.g., gaming, music, education).
-- Top Channel Growth: Identify the channels that have seen the most significant subscriber growth over a specific period. This could be insightful for understanding what kind of content resonates most with viewers.
-- Content Language vs. Popularity: Analyze if there's a correlation between the primary language of a channel and its subscriber base. This might reveal opportunities for multilingual content creators.
-- Brand vs. Individual Channels: Compare how brand channels perform against individual creator channels in terms of subscriber count and engagement.
-- Category Saturation: Explore which content categories are the most saturated and identify potential niche areas with lower competition.
+
+I am going to create data visualizations on different things such as:
+
+- Ranking of Top 50 YouTube Channels: Create a simple horizontal bar chart illustrating the top 50 YouTubers and their corresponding total subscriber counts. ✔
+- Subscriber Demographics by Country and Category: Explore which countries have the most popular channels and how those rankings differ by category (e.g., gaming, music, education). ✔
+- Content Language vs. Popularity: Analyze if there's a correlation between the primary language of a channel and its subscriber base. This might reveal opportunities for multilingual content creators. ✔
+- Brand vs. Individual Channels: Compare how brand channels perform against individual creator channels in terms of subscriber count and engagement. ✔
+- Category Saturation: Explore which content categories are the most saturated and identify potential niche areas with lower competition. ✔
 
 Check out the file, [documentation.md](https://github.com/erickarambulo/youtube/blob/main/documentation.md), to see my changes on Google Sheets from the original sheet to the updated sheet.
 
