@@ -50,4 +50,8 @@ If the distribution were equal (25 brand channels and 25 individual creator chan
 
 - Category Saturation:
 
-(To be continue here...)
+In my view, Entertainment and Gaming (though not among the top 50) are the most saturated categories. Here's why. While Entertainment is indeed the top 1 category, it's also highly saturated due to viewer preferences for specific types of entertainment. For instance, YouTubers creating entertainment content must invest significant time in editing to produce high-quality videos that attract a niche audience. Neglecting editing significantly reduces their reach, contributing to the category's saturation.
+
+Similarly, in Gaming, many creators fail to invest time in editing their content. Instead of posting raw, hours-long gameplay footage, they need to edit it to improve engagement. This common oversight significantly hinders their reach and exacerbates the saturation within the gaming category.
+
+This is an end of analysis.
